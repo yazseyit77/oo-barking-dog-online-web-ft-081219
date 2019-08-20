@@ -1,10 +1,10 @@
 # Your code goes here!
 class Dog
-  def my_dogs_name=(dog_name)
+  def name=(dog_name)
 
   end
 
-  def my_dogs_name
+  def name
 
   end
-end 
+end
